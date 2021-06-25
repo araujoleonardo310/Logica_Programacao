@@ -6,17 +6,16 @@
 
 ## Objetivos
 
-[X] Conhecer os fundamentos e conceitos de Algoritmos e Lógica de Programação 
-[X] Compreender e utilizar o Português estruturado (Portugol) para criação de sequências e resolução de problemas
-[X] Criar programas com linguagem Portugol
-[X] Ver o passa a passo do processamento de Algoritmos
+[X] Conhecer os fundamentos e conceitos de Algoritmos e Lógica de Programação <br>
+[X] Compreender e utilizar o Português estruturado (Portugol) para criação de sequências e resolução de problemas <br>
+[X] Criar programas com linguagem Portugol <br>
+[X] Ver o passa a passo do processamento de Algoritmos <br>
 
 ## Orietações aos visitantes
 
 ![](src/orientacoes.png)
 
->A pasta **ExerciosDasAulas** contém atividades e exemplos de exercicios oferecidos e utilizados pelo professor.<br>
-A Pasta **ExerciosDeverDeCasa** são atividades e desafios lançados pelo professor, ao qual, eu como aluno devo cumpri-los para estar apto à disciplina.
+>A pasta **ExerciosDasAulas** contém atividades e exemplos de exercicios oferecidos e utilizados pelo professor. <br>A Pasta **ExerciosDeverDeCasa** são atividades e desafios lançados pelo professor, ao qual, eu como aluno devo cumpri-los para estar apto à disciplina.
 
 ## Grade
 
@@ -24,9 +23,9 @@ A Pasta **ExerciosDeverDeCasa** são atividades e desafios lançados pelo profes
 
 ## Recursos utilizados
 
-* Linguagem Portugol
-* Software Visualg 3.0
-* Git (repositório local)
+* Linguagem Portugol <br>
+* Software Visualg 3.0 <br>
+* Git (repositório local) <br>
 * GitHub (repositório remoto)
 
 ## 🔗Referência
