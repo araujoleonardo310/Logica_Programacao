@@ -7,7 +7,7 @@
 ## Objetivos
 
 [X] Conhecer os fundamentos dos Algoritmos e a Lógica de Programação <br>
-[X] Compreender e aplicar a linguagem Portugol (Português Estruturado) para criação de programas que resolvam problemas <br>
+[X] Compreender e aplicar a linguagem Portugol(Português Estruturado) para criação de código fonte <br>
 [X] Aplicar comandos para executar solitações/pedidos ao sistema <br>
 [X] Adquirir pensamento lógico <br>
 
@@ -15,7 +15,7 @@
 
 ![](src/orientacoes.png)
 
->A pasta **ExerciosDasAulas** contém atividades e exemplos de exercicios oferecidos e utilizados pelo professor. <br><br><br>A Pasta **ExerciosDeverDeCasa** são atividades e desafios lançados pelo professor, ao qual, eu como aluno devo cumpri-los para estar apto à disciplina.
+>A pasta **ExerciosDasAulas** contém atividades e exemplos de exercicios oferecidos e utilizados pelo professor. <br><br>A Pasta **ExerciosDeverDeCasa** são atividades e desafios lançados pelo professor, ao qual, eu como aluno devo cumpri-los para estar apto à disciplina.
 
 ## Grade
 
