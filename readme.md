@@ -15,7 +15,7 @@
 
 ![](src/orientacoes.png)
 
->A pasta **ExerciosDasAulas** contém atividades e exemplos de exercicios oferecidos e utilizados pelo professor. <br>A Pasta **ExerciosDeverDeCasa** são atividades e desafios lançados pelo professor, ao qual, eu como aluno devo cumpri-los para estar apto à disciplina.
+>A pasta **ExerciosDasAulas** contém atividades e exemplos de exercicios oferecidos e utilizados pelo professor. <br><br><br>A Pasta **ExerciosDeverDeCasa** são atividades e desafios lançados pelo professor, ao qual, eu como aluno devo cumpri-los para estar apto à disciplina.
 
 ## Grade
 
