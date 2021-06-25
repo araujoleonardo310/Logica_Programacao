@@ -6,10 +6,10 @@
 
 ## Objetivos
 
-[X] Conhecer os fundamentos e conceitos de Algoritmos e Lógica de Programação <br>
-[X] Compreender e utilizar o Português estruturado (Portugol) para criação de sequências e resolução de problemas <br>
-[X] Criar programas com linguagem Portugol <br>
-[X] Ver o passa a passo do processamento de Algoritmos <br>
+[X] Conhecer os fundamentos dos Algoritmos e a Lógica de Programação <br>
+[X] Compreender e aplicar a linguagem Portugol (Português Estruturado) para criação de programas que resolvam problemas <br>
+[X] Aplicar comandos para executar solitações/pedidos ao sistema <br>
+[X] Adquirir pensamento lógico <br>
 
 ## Orietações aos visitantes
 
