@@ -8,8 +8,8 @@
 
 [X] Conhecer os fundamentos dos Algoritmos e a Lógica de Programação <br>
 [X] Compreender e aplicar a linguagem Portugol(Português Estruturado) para criação de código fonte <br>
-[X] Aplicar comandos para executar solitações/pedidos ao sistema <br>
-[X] Adquirir pensamento lógico <br>
+[X] Aplicar comandos para executar e funcionamento do programa<br>
+[X] Adquirir pensamento lógico e pensamento computacional <br>
 
 ## Orietações aos visitantes
 
