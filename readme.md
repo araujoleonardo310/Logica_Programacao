@@ -56,9 +56,9 @@ Estruturas  de repetição;
 
 <h2 id="referencias">Referências</h2><br>
 
-Algoritmos e Lógica de Programação 2021 - [Udemy](https://www.udemy.com/share/102erG2@FEdgV1hYTlIJekRCO0hnfT1tYw==/)
+Algoritmos e Lógica de Programação 2021 - [Udemy](https://www.udemy.com/share/102erG2@FG5KV2FZSFEJdE9AAmJNfRRuYFQ=/)
 
-Curso de Lógica de Programação - [Bóson Treinamentos](https://www.youtube.com/playlist?list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd)
+Curso de Lógica de Programação - [Bóson Treinamentos](https://youtube.com/playlist?list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd)
 
 <br>
 <h3>Biografia(s)</h3><br>
