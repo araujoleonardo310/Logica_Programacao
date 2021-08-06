@@ -1,14 +1,14 @@
 # Projeto: Algoritmos e Lógica de Programação 👨‍💻💻
 
 <div align=center>
-    <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;
-    <a href="#especificos">Específicos</a>&nbsp;&nbsp;&nbsp;
-    <a href="#status">Status</a>&nbsp;&nbsp;&nbsp;
-    <a href="#grade">Grade</a>&nbsp;&nbsp;&nbsp;
-    <a href="#feramentas-recursos">Ferramentas & Recursos</a>&nbsp;&nbsp;&nbsp;
-    <a href="#referencias-creditos">Referências & Créditos</a>&nbsp;&nbsp;&nbsp; 
-    <a href="#atividades-exercicios">Atividades & Exercícios</a>&nbsp;&nbsp;&nbsp;
-    <a href="#autor">Autor</a> 
+    <a href="#sobre" align=center>Sobre</a>&nbsp;&nbsp;&nbsp;
+    <a href="#especificos" align=center>Específicos</a>&nbsp;&nbsp;&nbsp;
+    <a href="#status" align=center>Status</a>&nbsp;&nbsp;&nbsp;
+    <a href="#grade" align=center>Grade</a>&nbsp;&nbsp;&nbsp;
+    <a href="#feramentas-recursos" align=center>Ferramentas & Recursos</a>&nbsp;&nbsp;&nbsp;
+    <a href="#referencias-creditos" align=center>Referências & Créditos</a>&nbsp;&nbsp;&nbsp; 
+    <a href="#atividades-exercicios" align=center>Atividades & Exercícios</a>&nbsp;&nbsp;&nbsp;
+    <a href="#autor" align=center>Autor</a> 
 </div>
 
 <h2 id="sobre">Sobre</h2><br>
