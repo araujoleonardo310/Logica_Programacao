@@ -67,8 +67,6 @@ Curso de Lógica de Programação - [Bóson Treinamentos](https://www.youtube.co
 
 <h2 id="autor">Autor</h2><br>
 
-***Eu SOU um DEV E-X-P-E-T-A-C-U-L-A-R 💺🌐**
-
 <p> Meu nome é Leonardo, mas gosto de ser o Leo. Estou me graduando em Sistemas de Informação e meu foco é crescer na carreira de Web Developer (Desenvolvedor Web).</p><br>
 
 <p> Tomei essa decisão, após sair de uma conhecida e ascendente empresa TELECOM (Provedora de Internet) da minha cidade. Durante jornada com o time e ajudando nas atividades do setor, ao qual fui responsável, percebi a influência da internet, aplicações, sites e sistemas de gerenciamento de empresas (ERP's) nas relações e interatividades entre pessoas e organizações. Além disso, a empresa me proporcionou treinamentos sobre o quanto a tecnologia ajuda e facilita nas rotinas de seus clientes e usuários. Decidi pela área de desenvolvimento, porque tenho oportunidade de usar minhas habilidades criativas, analíticas, comunicações empáticas e racionais, como também à minha disposição colaborativa quando lido com processos.</p><br>
@@ -76,5 +74,24 @@ Curso de Lógica de Programação - [Bóson Treinamentos](https://www.youtube.co
 
 <h3><i>Gostos e Hobbies</i></h3><br>
 
-Caminhar, correr, ciclismo, exercícios físicos, estudar, ler, desenvolver projetos, aprender desenvolvendo de sites e aplicações, fazer novas conexões (networking).</p>
+Caminhar, correr, ciclismo, exercícios físicos, estudar, ler, desenvolver projetos, aprender desenvolvendo de sites e aplicações, fazer novas conexões (networking).</p><br>
+
+<div>
+    <h3><strong>Contatos</strong></h3><br>
+    <a href="https://api.whatsapp.com/send?l=pt-BR&phone=5585988511269&text=Prazer%2C%20sou%20Leonardo%20Ara%C3%BAjo%2C%20mas%20gosto%20de%20ser%20chamado%20por%20Leo.%0ASou%20universit%C3%A1rio%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o%2C%0A%0AComo%20posso%20ajudar%3F">
+        <img  src="https://i.imgur.com/YyLyMPi.png" height="30em" title="Icone do Whatssap">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="mailto:araujoleonardo310@gmail.com">
+        <img src="https://i.imgur.com/tLI3d6L.png" height="30em" title="Icone do Gmail">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/araujoleonardo310">
+        <img  src="https://i.imgur.com/LpVinhs.png" height="30em" title="Icon do GitHub">
+    </a>   
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/leonardoaraujo310/">
+        <img src="https://i.imgur.com/HlqBmV8.png" height="30em" title="Ícone do LinkedIn">
+    </a>
+</div>
 
