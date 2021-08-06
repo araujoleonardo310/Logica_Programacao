@@ -1,16 +1,14 @@
 # Projeto: Algoritmos e Lógica de Programação 👨‍💻💻📑
 
 <div align=center>
-    <a href="sobre">Sobre</a>&nbsp;&nbsp;&nbsp;
-    <a href="especificos">Específicos</a>&nbsp;&nbsp;&nbsp;
-    <a href="">Status</a>&nbsp;&nbsp;&nbsp;
-    <a href="">Grade</a>&nbsp;&nbsp;&nbsp;
-    <a href="">Referências & Créditos</a>&nbsp;&nbsp;&nbsp; 
-    <a href="">Atividades & Exercícios</a>&nbsp;&nbsp;&nbsp;
-    <a href="">Autor</a> 
+    <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;
+    <a href="#especificos">Específicos</a>&nbsp;&nbsp;&nbsp;
+    <a href="#status">Status</a>&nbsp;&nbsp;&nbsp;
+    <a href="#grade">Grade</a>&nbsp;&nbsp;&nbsp;
+    <a href="#referencias-creditos">Referências & Créditos</a>&nbsp;&nbsp;&nbsp; 
+    <a href="#atividades-exercicios">Atividades & Exercícios</a>&nbsp;&nbsp;&nbsp;
+    <a href="#autor">Autor</a> 
 </div>
-
-
 
 <h2 id="sobre">Sobre</h2><br>
 
@@ -54,7 +52,7 @@ Estruturas  de repetição;
 
 > São atividades extras, desafios para praticar e desenvolver capacidade de pensamentos lógicos e observações para andamento da(s) sequência(s) no algoritmo.
 
-<h2 id="referencias">Referências</h2><br>
+<h2 id="referencias-creditos">Referências & Créditos</h2><br>
 
 Algoritmos e Lógica de Programação 2021 - [Udemy](https://www.udemy.com/share/102erG2@FG5KV2FZSFEJdE9AAmJNfRRuYFQ=/)
 
