@@ -15,20 +15,20 @@
 
 > <p>Estruturar problemas computáveis utilizando uma linguagem de programação algorítmica, estruturada de primeira ordem e visualizar, mesmo que de forma elementar, as atividades desenvolvidas por um programador no mercado de trabalho.<p>
 
-<h2 id="especificos">Específicos</h2><hr><br>
+<h2 id="especificos">Específicos</h2><br>
 
 * Aprender a pensar de forma sistêmica na resolução de problemas; 
 * Construir algoritmos;
 * Entender os princípios básicos da programação estruturada;
 * Utilizar uma linguagem de programação na solução de problemas.</p>
 
-<h2 id="status">Status</h2><hr><br>
+<h2 id="status">Status</h2><br>
 
 ***Em desenvolvimento 🚀🚧***
 
 <br>
 
-<h2 id="grade">Grade</h2><hr><br>
+<h2 id="grade">Grade</h2><br>
 
 * Introdução a  computação; 
 * Introdução  a  lógica  de  programação;  
@@ -43,7 +43,7 @@
 
 <br>
 
-<h2 id="ferramentas-recursos">Ferramentas & Recursos Utilizados</h2><hr><br>
+<h2 id="ferramentas-recursos">Ferramentas & Recursos Utilizados</h2><br>
 
 * Português estruturado (Portugol)
 * Visulag 3.0; 
@@ -51,9 +51,10 @@
 <br>
 
 
-<h2 id="atividades-exercicios">Atividades & Exercícios</h2><hr><br>
+<h2 id="atividades-exercicios">Atividades & Exercícios</h2><br>
 
 <h3>Sobre as pastas no projeto</h3>
+
 <img href="demost/pastas.gif">
 
 <p><strong>ExerciciosDasAulas:</strong></p> 
