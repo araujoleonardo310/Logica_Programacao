@@ -5,15 +5,20 @@
     <a href="#especificos" align=center>Específicos</a>&nbsp;&nbsp;&nbsp;
     <a href="#status" align=center>Status</a>&nbsp;&nbsp;&nbsp;
     <a href="#grade" align=center>Grade</a>&nbsp;&nbsp;&nbsp;
-    <a href="#feramentas-recursos" align=center>Ferramentas & Recursos</a>&nbsp;&nbsp;&nbsp;
+    <a href="#recursos" align=center>Recursos</a>&nbsp;&nbsp;&nbsp;
     <a href="#referencias-creditos" align=center>Referências & Créditos</a>&nbsp;&nbsp;&nbsp; 
     <a href="#atividades-exercicios" align=center>Atividades & Exercícios</a>&nbsp;&nbsp;&nbsp;
-    <a href="#autor" align=center>Autor</a> 
+    <a href="#autor" align=center>Autor</a>
+    &nbsp;&nbsp;&nbsp; 
 </div>
 
 <h2 id="sobre">Sobre</h2><br>
 
 > <p>Estruturar problemas computáveis utilizando uma linguagem de programação algorítmica, estruturada de primeira ordem e visualizar, mesmo que de forma elementar, as atividades desenvolvidas por um programador no mercado de trabalho.<p>
+
+<br>
+
+<img src="demost/capa.png" align=center><br><br>
 
 <h2 id="especificos">Específicos</h2><br>
 
@@ -43,23 +48,25 @@
 
 <br>
 
-<h2 id="ferramentas-recursos">Ferramentas & Recursos Utilizados</h2><br>
+<h2 id="recursos">Recursos Utilizados</h2><br>
 
 * Português estruturado (Portugol)
 * Visulag 3.0; 
-
 <br>
 
 
 <h2 id="atividades-exercicios">Atividades & Exercícios</h2><br>
 
-<h3>Sobre as pastas no projeto</h3>
+<h3 align=center>Sobre cada pastas deste repositório</h3>
 
-<img href="demost/pastas.gif">
+<img src="demost/pastas.gif" align=center>
+
+
+<br><br>
 
 <p><strong>ExerciciosDasAulas:</strong></p> 
 
-> São exercícios de explicação dos professores, sendo desnecessário qualquer mudança ou contexto na criação dos códigos, pois visa apenas dar compreensão ao aluno sobre cada assunto da disciplina.
+> São exercícios de explicações dos professores sobre cada assunto da grade. São atividades que não precisam de qualquer mudança ou alteração no contexto de criação dos códigos dos seus algoritmos, pois visam, apenas, oferecer compreensão na disciplina.
 
 <br>
 
