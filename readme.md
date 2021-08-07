@@ -90,8 +90,11 @@ Curso de Lógica de Programação - [Bóson Treinamentos](https://youtube.com/pl
 
 <br>
 <h3>Biografia(s)</h3><br>
-
+<div align=center>
+    <img src="https://images-na.ssl-images-amazon.com/images/I/51hqFlSTFzL._SX356_BO1,204,203,200_.jpg" height=200em target="_blank" align=left title="Todos os direitos resenvados a Amazon"><br><br><br>   
     Algoritmos: Lógica para desenvolvimento de programação de computadores, Manzano. 
+</div>
+<br><br><br><br><br><br>
 
 <h2 id="autor">Autor</h2><hr><br>
 
