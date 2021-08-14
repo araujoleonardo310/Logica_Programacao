@@ -14,7 +14,7 @@
 
 <h2 id="sobre">Sobre</h2><br>
 
-> <p>Estruturar problemas computáveis utilizando uma linguagem de programação algorítmica, estruturada de primeira ordem e visualizar, mesmo que de forma elementar, as atividades desenvolvidas por um programador no mercado de trabalho.<p>
+> <p>Estruturar problemas computáveis utilizando uma linguagem de programação algorítmica, estruturada de primeira ordem e visualizar, mesmo que de forma elementar, as atividades desenvolvidas por um programador no mercado de trabalho.</p>
 
 <br>
 
@@ -25,7 +25,7 @@
 * Aprender a pensar de forma sistêmica na resolução de problemas; 
 * Construir algoritmos;
 * Entender os princípios básicos da programação estruturada;
-* Utilizar uma linguagem de programação na solução de problemas.</p>
+* Utilizar uma linguagem de programação na solução de problemas.
 
 <h2 id="status">Status</h2><br>
 
