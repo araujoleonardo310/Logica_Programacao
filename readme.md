@@ -82,7 +82,7 @@
 
 <br>
 
-<h2 id="referencias-creditos">Referências & Créditos</h2><hr><br>
+<h2 id="referencias-creditos">Referências & Créditos</h2><br>
 
 Algoritmos e Lógica de Programação 2021 - [Udemy](https://www.udemy.com/share/102erG2@FG5KV2FZSFEJdE9AAmJNfRRuYFQ=/)
 
@@ -96,7 +96,7 @@ Curso de Lógica de Programação - [Bóson Treinamentos](https://youtube.com/pl
 </div>
 <br><br><br><br><br><br>
 
-<h2 id="autor">Autor</h2><hr><br>
+<h2 id="autor">Autor</h2><br>
 
 <p> Meu nome é Leonardo, mas gosto de ser o Leo. Estou me graduando em Sistemas de Informação e meu foco é crescer na carreira de Web Developer (Desenvolvedor Web).</p><br>
 
